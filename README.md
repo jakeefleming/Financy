@@ -9,7 +9,6 @@ Our project is a personal CRM to manage finance recruiting / networking. We want
 
 
 ## Architecture
-TODO:  descriptions of code organization and tools and libraries used
 
 Tools:
 1) React
