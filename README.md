@@ -57,7 +57,7 @@ src/views:
 6) Landing Page - Page seen when first entering website
 
 ## Setup
-TODO: how to get the project dev environment up and running, npm install etc
+
 1) Use npm install
 2) npm run build
 Can also do npm run dev locally
