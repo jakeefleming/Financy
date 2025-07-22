@@ -1,6 +1,7 @@
 # Financy
 
- https://project-financy.onrender.com
+Using Google Chrome:
+https://project-financy.onrender.com
 
 Short project description:
 Our project is a personal CRM to manage finance recruiting / networking. We want you to see what firms you’ve networked with, see your notes from your networking calls, and track and manage resume versions and cover letters for each firm. We will solve the need of having somewhere to store notes on a person/thing with an integrate calendar (put future dates) and email templating.
